@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
+Thumbs.db
